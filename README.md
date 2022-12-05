@@ -1,2 +1,3 @@
 # blog_website
-Blog website build with Flask, WTForms and Flask-SQLAlchemy
+This is blog website build with Flask, WTForms and Flask-SQLAlchemy
+Users can login and there passwords are encrypted with 
