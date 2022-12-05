@@ -1,6 +1,6 @@
 # blog_website
-This website does Users authentication and thier passwords are encrypted(hashed and salted) using werkzeug.security. Only admin of the website can add and delete the blogs. Some features of the website like commenting requires authentication.
-All html files are stored in templates folder as per Flask framework requirements
+This website does User authentication and passwords are encrypted (hashed and salted) using werkzeug.security. Only admin of the website can add and delete the blogs. Some features of the website like commenting requires authentication. All html files are stored in templates folder as per Flask framework requirements.
+<br>
 <br>
 This blogs website is built using the following tools:
 <br>
