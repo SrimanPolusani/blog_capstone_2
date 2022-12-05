@@ -10,3 +10,5 @@ Frameworks & Modules: Flask, Flask-Bootstrap, Flask-CKEditor, Flask-Login, Flask
 Backend: Python 3
 <br>
 Frontend: HTML, CSS, SCSS and JavaScript
+
+In association with Angela Yu, Instructor, Udemy.
