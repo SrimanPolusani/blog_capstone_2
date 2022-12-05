@@ -5,10 +5,8 @@ All html files are stored in templates folder as per Flask framework requirement
 
 This blogs website is built using the following tools:
 <br>
-Frameworks: Flask & Jinja
-<br>
-Modules: Stmplib and Requests
+Frameworks & Modules: Flask, Flask-Bootstrap, Flask-CKEditor, Flask-Login, Flask-Gravatar, WTForms, SQLAlchemy, Werkzeug, Stmplib, Bootstrap, Requests and Functools
 <br>
 Backend: Python 3
 <br>
-Frontend: HTML, CSS and JavaScript
+Frontend: HTML, CSS, SCSS and JavaScript
